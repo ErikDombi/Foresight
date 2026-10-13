@@ -1,0 +1,17 @@
+{
+  "id": "Foresight",
+  "name": "Foresight",
+  "author": [
+    "Wickedlizerd"
+  ],
+  "description": "Seed finder, run forecast, save states and rewind - a Brainstorm replacement. Press F3 to open. Stack filters for skip tags, bosses, vouchers, shop jokers, packs, The Soul and more; preview upcoming shops and packs; keep 10 save states and undo any hand.",
+  "prefix": "fsgt",
+  "main_file": "main.lua",
+  "dependencies": [
+    "Steamodded (>=26.829.0)"
+  ],
+  "priority": 60,
+  "badge_colour": "4584FA",
+  "badge_text_colour": "FFFFFF",
+  "version": "1.0.0"
+}
